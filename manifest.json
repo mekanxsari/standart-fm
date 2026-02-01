@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "standart.fm",
+  "name": "Standart FM",
   "version": "1.1",
   "description": "Standart FM Radio Player",
   "icons": {
@@ -16,7 +16,7 @@
     "default_popup": "index.html"
   },
   "permissions": [
-    "storage", "offscreen", "nativeMessaging"
+    "storage", "offscreen"
   ],
   "host_permissions": [
     "https://moondigitaledge.radyotvonline.net/*"

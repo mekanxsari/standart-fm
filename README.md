@@ -1,6 +1,10 @@
 # Standart FM - Chrome Extension
-A simple Chrome extension to play Standart FM radio directly from your browser.
 ![Banner](images/banner.jpg)
+
+A simple Chrome extension to play Standart FM radio directly from your browser.
+
+## Chrome Web Store URL
+[Standart FM](https://chromewebstore.google.com/detail/aogmaaglbbkekheegjoceljpkidmegpb)
 
 ## Requirements
 - Chrome v88 or higher
